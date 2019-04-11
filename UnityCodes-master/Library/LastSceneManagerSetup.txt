@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SpringGUI/Demo/03_DoubleClickButton_LongClick/03_DoubleClickButton&&LongClickButton.unity
+  isLoaded: 1
+  isActive: 1
